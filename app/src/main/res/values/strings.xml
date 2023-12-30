@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+
+    <array name="Days">
+        <item>"monday"</item>
+        <item>"tuesday"</item>
+        <item>"wednesday"</item>
+        <item>"thursday"</item>
+        <item>"friday"</item>
+    </array>
+    <array name="Time">
+        <item>8:45AM - 9:25AM</item>
+        <item>9:30AM - 10:10AM</item>
+        <item>10:15AM - 10:55AM</item>
+        <item>11:00AM - 11:40AM</item>
+        <item>11:45AM - 12:25PM</item>
+        <item>2PM - 3PM</item>
+        <item>3PM - 4PM</item>
+        <item>4PM - 5PM</item>
+        <item>5PM - 6PM</item>
+    </array>
+    <array name="TimeSQL">
+        <item>eighttonine</item>
+        <item>ninetoten</item>
+        <item>tentoeleven</item>
+        <item>eleventotwelve</item>
+        <item>twelvetoone</item>
+        <item>twotothree</item>
+        <item>threetofour</item>
+        <item>fourtofive</item>
+        <item>fivetosix</item>
+    </array>
+    <array name="Lovely">
+        <item>Yes Exit</item>
+        <item>No Stay here</item>
+    </array>
+</resources>
