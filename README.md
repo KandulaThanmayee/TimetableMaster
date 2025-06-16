@@ -1,8 +1,6 @@
 # Timetable
 A timetable app aimed at students to keep track of class timings and projects due.
 
-_This app was our second year project submission for the annual Android app developing competition - DroidRush, held at our university._
-
 _We won the 'Best app by Second Year' award for this app in 2017._
 
 ## Features
@@ -88,10 +86,3 @@ _We won the 'Best app by Second Year' award for this app in 2017._
 * Sync the gradle according to the project's gradle version
 * Install the apk onto an Android device using Android Studio
 
-## Authors
-
-* **Kalyan Prusty** - *Lead Developer*
-* **Shreyas Dhobal** - *Developer*
-* **Rajat Biswas** - *Lead Designer*
-
-See also the list of [contributors](https://github.com/rajatdiptabiswas/timetable/graphs/contributors) who participated in this project.
