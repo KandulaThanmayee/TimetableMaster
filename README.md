@@ -4,11 +4,11 @@ A timetable app aimed at students to keep track of class timings and projects du
 _We won the 'Best app by Second Year' award for this app in 2017._
 
 ## Tech Stack
-Platform: Android
-Language: Java
-Build System: Gradle
-IDE: Android Studio
-Features: Notifications, Widgets, Auto Settings, File Sharing
+- Platform: Android
+- Language: Java
+- Build System: Gradle
+- IDE: Android Studio
+- Features: Notifications, Widgets, Auto Settings, File Sharing
 
 ## Features
 - Remember when and where there are classes
