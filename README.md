@@ -1,7 +1,7 @@
 # Timetable
 A timetable app aimed at students to keep track of class timings and projects due.
 
-_We won the 'Best app by Second Year' award for this app in 2017._
+_We won the 'Best app by Third Year' award for this app._
 
 ## Tech Stack
 - Platform: Android
